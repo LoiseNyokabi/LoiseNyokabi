@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @LoiseNyokabi
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning JavaScript,HTML,and CSS
-- 💞️ I’m looking to collaborate on programming knowledge
-- 📫 How to reach me loisenyokabih@gmail.com
-
-<!---
-LoiseNyokabi/LoiseNyokabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I am Loise👋 
+I am an ICT specialist who is very passonate about technology and all its dynamics. Some of the programming languages that I have been able to intersct with are: C, C++, VB.NET, JavaScript and HTML. I am also working on learning some other programming languages including Python, Java, and CSS. I aspire to be among the numerous women who have chosen to venture in the field of Technology and Software Development. 
